@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-label="Amazigh and Moroccan flags alternating, moving right to left">
+  <title>Amazigh and Moroccan flags</title>
+  <defs>
+    <clipPath id="flagclip"><rect width="90" height="60"/></clipPath>
+    <clipPath id="stripclip"><rect width="1200" height="60" rx="6"/></clipPath>
+
+    <g id="amazigh">
+      <g clip-path="url(#flagclip)">
+        <rect width="90" height="20" fill="#0090DA"/>
+        <rect y="20" width="90" height="20" fill="#78BE20"/>
+        <rect y="40" width="90" height="20" fill="#FEDD00"/>
+        <g transform="scale(0.1)" fill="#CC0033">
+          <polygon points="429.675,477.64 458.13,507.721 466.26,97.9695 450,80.8966"/>
+          <path d="M657.315 515.851l54.4711 -23.5769c-104.877,-104.064 -165.039,-142.275 -264.225,-144.714 -126.015,8.94308 -208.128,59.3489 -243.087,159.348l24.3898 -4.87785c99.9991,-123.576 156.909,-109.755 220.323,-117.072 67.4791,2.43908 136.584,46.3409 208.128,130.893z"/>
+          <path d="M289.839 93.0917l-52.032 13.8209c50.4058,89.4298 122.763,143.901 215.445,147.966 122.763,0.812923 193.494,-82.1129 242.274,-156.909l-41.4631 12.1951c-78.8609,111.381 -164.226,115.446 -202.437,109.755 -64.2271,-4.87785 -117.072,-57.7231 -161.787,-126.828z"/>
+        </g>
+      </g>
+    </g>
+
+    <g id="morocco">
+      <g clip-path="url(#flagclip)">
+        <rect width="90" height="60" fill="#C1272D"/>
+        <path transform="translate(45 31)" d="M0 -16 L9.4 12.94 L-15.22 -4.94 L15.22 -4.94 L-9.4 12.94 Z" fill="none" stroke="#006233" stroke-width="3" stroke-linejoin="miter"/>
+      </g>
+    </g>
+  </defs>
+  <style>
+    .march { animation: march 8s linear infinite; }
+    @keyframes march { from { transform: translateX(0); } to { transform: translateX(-180px); } }
+    @media (prefers-reduced-motion: reduce) { .march { animation: none; } }
+  </style>
+  <g clip-path="url(#stripclip)">
+  <g class="march">
+    <use href="#amazigh" xlink:href="#amazigh" x="0"/>
+    <use href="#morocco" xlink:href="#morocco" x="90"/>
+    <use href="#amazigh" xlink:href="#amazigh" x="180"/>
+    <use href="#morocco" xlink:href="#morocco" x="270"/>
+    <use href="#amazigh" xlink:href="#amazigh" x="360"/>
+    <use href="#morocco" xlink:href="#morocco" x="450"/>
+    <use href="#amazigh" xlink:href="#amazigh" x="540"/>
+    <use href="#morocco" xlink:href="#morocco" x="630"/>
+    <use href="#amazigh" xlink:href="#amazigh" x="720"/>
+    <use href="#morocco" xlink:href="#morocco" x="810"/>
+    <use href="#amazigh" xlink:href="#amazigh" x="900"/>
+    <use href="#morocco" xlink:href="#morocco" x="990"/>
+    <use href="#amazigh" xlink:href="#amazigh" x="1080"/>
+    <use href="#morocco" xlink:href="#morocco" x="1170"/>
+    <use href="#amazigh" xlink:href="#amazigh" x="1260"/>
+    <use href="#morocco" xlink:href="#morocco" x="1350"/>
+  </g>
+  </g>
+</svg>
