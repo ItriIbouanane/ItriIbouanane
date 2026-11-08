@@ -1,18 +1,84 @@
-# 💫 About Me:
-🔭 I’m currently working on [Itri Cloud](https://x.com/itriCloud)<br>🌱 I’m currently learning **Spanish**<br>👯 I’m looking to collaborate on **hosting prodivers**<br>🤝 I’m looking for help with **design**<br>👨‍💻 I can speak English, Arabic, Moroccan darija, Tamazight and French<br>💬 Ask me about **Adonisjs and discord.js**<br>📫 How to reach me **contact@itri.cloud**<br>😍 My best work experience was at [https://wan-host.fr](https://wan-host.fr)<br>⚡ Fun fact **I started coding back when i was 9.**<br>
+<div align="center">
 
+# Hi, I'm Itri 👋
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](#) Itri Ibouanane 
+Developer and founder of Itri Cloud Labs, based in Casablanca, Morocco 🇲🇦
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itriibouanane&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=itriibouanane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itriibouanane&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I build software and experiment with AI. A few of my side projects got a lot bigger than I planned.
+
+[Itri Cloud Labs](https://ic-labs.cloud) · [TifinaghBench](https://tifinaghbench.ic-labs.cloud) · [OpenStudy](https://openstudy.ic-labs.cloud) · [invoice-kit](https://invoice-kit.ic-labs.cloud)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itriibouanane&icon=3&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About me
+
+I run **Itri Cloud Labs**. The work there covers business apps running in production, developer infrastructure, and AI research.
+
+Most of what I care about falls into full-stack development, distributed systems, cloud infrastructure, and language technology.
+
+I like building things from scratch and knowing what happens below the abstraction layers. I also want people to actually use what I ship, which is a different skill.
+
+### What I'm building
+
+| Project | What it is |
+|---------|------------|
+| **ICERP** | Multi-tenant ERP for inventory, invoicing, and the rest of a business's daily operations. |
+| [**TifinaghBench**](https://tifinaghbench.ic-labs.cloud) | Benchmark that tests how well language models understand Amazigh languages and the Tifinagh script. |
+| [**OpenStudy**](https://openstudy.ic-labs.cloud) | Open-source AI study companion that runs in the terminal and works with several LLM providers. |
+| [**invoice-kit**](https://invoice-kit.ic-labs.cloud) | TypeScript toolkit for generating invoices. |
+| [**Shift**](https://github.com/itri-cloud-labs/shift) | Orchestration for AI-assisted development workflows. |
+
+### Tech I use
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Frontend and backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+
+**Infrastructure and tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI**
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openrouter&logoColor=white)
+
+On the AI side I spend most of my time on LLM evaluation, benchmarking models, and building agents.
+
+### What I'm into
+
+- Reliable software that scales.
+- Developer tools with less setup and fewer moving parts.
+- AI evaluation, especially for multilingual models and languages that most benchmarks skip.
+- Self-hosting and running my own infrastructure.
+- Open source and the people who keep it going.
+
+### Beyond code
+
+Language preservation is where my interest in tech gets personal.
+
+Amazigh languages barely show up in AI benchmarks. TifinaghBench is my attempt to measure how current models handle them, so there's a baseline to improve on.
+
+I'm also growing Itri Cloud Labs and trying to connect more developers and builders in Morocco. <br>
+Also, I'm 14.
